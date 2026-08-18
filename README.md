@@ -18,10 +18,6 @@
 
 ---
 
-<h3>🎧 Now Playing</h3>
-
-[![Spotify](https://novatorem-muhammadammarfaris22.vercel.app/api/spotify?background_color=0d1117&show_offline&border_color=ffffff)](https://open.spotify.com/user/31zc2a4hozn3awzskii3xce6b5xq?si=96706891c1af4af4)
-
 <h3>⚡ Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,flutter,dart,vscode,figma,postman,stackoverflow,github,mint)](https://skillicons.dev)
