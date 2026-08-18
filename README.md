@@ -1,5 +1,4 @@
-
-#width="28"/> ɪ'ᴍ ᴀᴍᴍᴀʀ ғᴀʀɪs
+# ɪ'ᴍ ᴀᴍᴍᴀʀ ғᴀʀɪs
 *Developer / Programmer*
 <br /> 
 
